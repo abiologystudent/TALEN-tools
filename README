@@ -1,0 +1,8 @@
+TALEN bioinformatics tools
+
+TALEN checker v1.0 is useful for Golden Gate assembly of TALEN constructs. 
+
+It takes input data from a sequence of an array and finds the sequential inserts of modules plasmids located in that array, if any. 
+
+It is still in development. 
+
